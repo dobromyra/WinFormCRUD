@@ -1,0 +1,11 @@
+C:\Users\D\source\repos\AppForBD\AppForBD\bin\Debug\AppForBD.exe.config
+C:\Users\D\source\repos\AppForBD\AppForBD\bin\Debug\AppForBD.exe
+C:\Users\D\source\repos\AppForBD\AppForBD\bin\Debug\AppForBD.pdb
+C:\Users\D\source\repos\AppForBD\AppForBD\obj\Debug\AppForBD.csprojAssemblyReference.cache
+C:\Users\D\source\repos\AppForBD\AppForBD\obj\Debug\AppForBD.MainForm.resources
+C:\Users\D\source\repos\AppForBD\AppForBD\obj\Debug\AppForBD.Properties.Resources.resources
+C:\Users\D\source\repos\AppForBD\AppForBD\obj\Debug\AppForBD.csproj.GenerateResource.cache
+C:\Users\D\source\repos\AppForBD\AppForBD\obj\Debug\AppForBD.csproj.CoreCompileInputs.cache
+C:\Users\D\source\repos\AppForBD\AppForBD\obj\Debug\AppForBD.exe
+C:\Users\D\source\repos\AppForBD\AppForBD\obj\Debug\AppForBD.pdb
+C:\Users\D\source\repos\AppForBD\AppForBD\obj\Debug\AppForBD.FormNewStudent.resources
